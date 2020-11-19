@@ -14,6 +14,7 @@
 ### VisualStudioCode Patch ###
 # Ignore all local history of files
 .history
+settings.json
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode
 
@@ -158,3 +159,7 @@ dmypy.json
 .pytype/
 
 # End of https://www.toptal.com/developers/gitignore/api/python
+book-crossings.zip
+BX-Book-Ratings.csv
+BX-Books.csv
+BX-Users.csv
